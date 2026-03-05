@@ -34,3 +34,7 @@ git clone https://github.com/joaowillianspejo/Teste-Mobile-Robot-Appium.git
 ```Shell
 cd Teste-Mobile-Robot-Appium
 ```
+
+---
+
+Made with ❤️ by [João Willian](https://github.com/joaowillianspejo).
