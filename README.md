@@ -9,6 +9,10 @@
 
 ---
 
+#### - **Android Studio**
+
+Você encontra em: https://developer.android.com/studio?hl=pt-br
+
 #### - **Python**
 
 Você encontra em: https://www.python.org/downloads/
